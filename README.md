@@ -44,7 +44,7 @@ Modern Portfolio Theory aims to maximize portfolio return for a given level of r
   The set of portfolios offering the highest expected return for a given risk.
 
 ## Usage
-1.open terminal:
+1. Open terminal:
    ```bash
    git clone https://github.com/Hasan8123/Smart-Portfolio-Optimizer.git
    cd Smart-Portfolio-Optimizer
